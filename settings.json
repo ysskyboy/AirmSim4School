@@ -1,0 +1,75 @@
+{
+  "SettingsVersion": 1.2,
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+  "SimMode": "Multirotor",
+  "ViewMode": "FlyWithMe",
+  "SubWindows": [
+    {
+      "WindowID": 0,
+      "CameraName": "front_center_custom",
+      "ImageType": 0,
+      "Visible": true,
+      "ImageSize": [
+        480,
+        270
+      ],
+      "CameraPosition": [
+        0.0,
+        0.0,
+        -2.5
+      ],
+      "CameraRotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "WindowID": 1,
+      "CameraName": "front_center_custom",
+      "ImageType": 3,
+      "Visible": true,
+      "ImageSize": [
+        480,
+        270
+      ],
+      "CameraPosition": [
+        0.0,
+        0.0,
+        -2.5
+      ],
+      "CameraRotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "WindowID": 2,
+      "CameraName": "front_center_custom",
+      "ImageType": 5,
+      "Visible": true,
+      "ImageSize": [
+        480,
+        270
+      ],
+      "CameraPosition": [
+        0.0,
+        0.0,
+        -2.5
+      ],
+      "CameraRotation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "Vehicles": {
+    "Drone": {
+      "VehicleType": "SimpleFlight",
+      "DisplayName": "My First Drone",
+      "AutoCreate": true
+    }
+  }
+}

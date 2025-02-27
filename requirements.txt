@@ -1,0 +1,21 @@
+# Core simulation dependencies
+airsim>=1.8.1
+airsimneurips>=1.0.0
+
+# GUI and control dependencies
+pygame>=2.1.0
+keyboard>=0.13.5
+tkinter
+
+# Image processing and numerical computation
+numpy>=1.21.0
+opencv-python>=4.5.0
+msgpack-python>=1.0.3
+msgpack-rpc-python>=0.4.1
+
+# Communication
+pyserial>=3.5
+tornado>=6.1
+
+# Development tools
+pytest>=7.0.0  # for running tests
