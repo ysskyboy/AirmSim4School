@@ -1,4 +1,4 @@
-# AirSim Drone Teaching Simulation
+# AirSim Drone Teaching Simulation 无人机教学仿真
 
 ## 项目简介
 本项目是基于 AirSim 模拟器开发的无人机教学仿真系统，支持键盘和遥控器控制无人机飞行。
